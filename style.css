@@ -12,4 +12,20 @@ body {
     color: var(--primary-color);
     font-family: var(--font);
     height: 100vh;
+    margin: 0;
+}
+
+header{
+    background-color: var(--secundary-color);
+    text-align: center;
+}
+
+h1{
+    font-size: 2rem;
+    color: var(--bg-color);
+    font-weight: 700;
+}
+
+nav{
+    display: flex;
 }
